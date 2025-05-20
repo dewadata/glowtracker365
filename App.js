@@ -1,0 +1,1 @@
+import React from 'react'; function App() { return <div>Hello, GlowTracker 365!</div>; } export default App;
